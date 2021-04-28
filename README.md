@@ -1,7 +1,9 @@
 2.2. Tarea | Problemas de programación básica
 
+
   NORMA ANGÉLICA GARCÍA MARTÍNEZ
   329528
+
 
 1.- Hacer un programa que imprima los números del 1 al 100.
 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.
@@ -43,5 +45,5 @@
 41. Hacer un programa que nos permita dar altas en el archivo DATOS.DAT, cuyos campos son: ID, NOMBRE, APELLIDOS, DIRECCIÓN y ESTADO.
 42.- Hacer un programa que nos permita dar bajas en el fichero DATOS.DAT.  
 43.-  Dado  el  archivo  DATOS.DAT,  realizar  un  programa  que  nos  permita  realizar  modificaciones cuantas veces deseemos.
-44.-  Con  el  archivo  DATOS.DAT  listar  todos  los  registros  cuyo  estado  sea  uno  determinado  que introduciremos por teclado. 
+44.-  Con  el  archivo  DATOS.DAT  listar  todos  los  registros  cuyo  estado  sea  uno  determinado  que introduciremos por teclado.
 45.- Tenemos  el  archivo  DATOS.DAT  con  la  misma  estructura  anterior,  que  esta  indexado  por  el campo ID. Crear un programa que nos permita consultar un registro siempre que queramos.
