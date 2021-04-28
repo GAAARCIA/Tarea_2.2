@@ -1,11 +1,11 @@
 2.2. Tarea | Problemas de programación básica
 
-**
+***
 
 	NORMA ANGÉLICA GARCÍA MARTÍNEZ
 	329528
 
-**
+***
 
 	1.- Hacer un programa que imprima los números del 1 al 100.
 
